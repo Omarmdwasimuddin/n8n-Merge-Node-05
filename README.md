@@ -11,3 +11,4 @@
 #### Execution workflow click koro
 #### Open nodes panel--->search: Merge--->Number of inputs e 3 daw--->close koro--->Switch er shathe adjust koro.
 #### Merge er + sign click koro--->search: Gmail--->Click: Send a message--->value set koro
+#### Execution workflow click koro. Publish koro. done!.
